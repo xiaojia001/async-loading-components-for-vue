@@ -1,0 +1,1 @@
+﻿# 先挖一个坑, 仅仅是利用了vue-loader components 的 resolve() 来稍微解决一点用户首次加载SPA页面js过大的问题
